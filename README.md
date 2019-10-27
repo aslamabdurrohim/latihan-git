@@ -1,1 +1,2 @@
-# latihan-git
+# gigit
+This repository is for git learning purpose
